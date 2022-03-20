@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Test page</title>
+</head>
+<body>
+	<h1>Hey. i'm a big heading</h1>
+	<p>Hey. i'm a <b>paragraph</b> elemnt. cool huh?</p>
+	<a href="https://google.com" target="_blank" title="Let's go to Google">Click me im a link!</a>
+	<p>My name is:<br>
+	Doggy dog</p>
+	<img src="https://kb.rspca.org.au/wp-content/uploads/2018/11/golder-retriever-puppy.jpeg">
+</body>
+</html>
